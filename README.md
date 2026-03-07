@@ -117,6 +117,37 @@ The application allows users to:
 
 ---
 
+## Screenshots
+
+### Home Dashboard
+![Home Dashboard](screenshots/HOME.png)
+
+### Timer
+![Timer](screenshots/TIMER.png)
+
+### Stopwatch
+![Stopwatch](screenshots/STOPWATCH.png)
+
+### Time Calculator
+![Time Calculator](screenshots/TIME_CALCULATOR.png)
+
+### Calendar
+![Calendar](screenshots/CALENDAR.png)
+
+### Active Tasks
+![Active Tasks](screenshots/ACTIVE_TASKS.png)
+
+### Recurring Tasks
+![Recurring Tasks](screenshots/RECURRING_TASKS.png)
+
+### Completed Tasks
+![Completed Tasks](screenshots/COMPLETED_TASKS.png)
+
+### Settings
+![Settings](screenshots/SETTINGS.png)
+
+---
+
 ## Tech Stack
 
 - **Language:** Java
